@@ -1,5 +1,5 @@
 import { Component } from "react"
-import Pedido from Component
+import Pedido from "./components/Pedido"
 
 const App = () => {
   return (
