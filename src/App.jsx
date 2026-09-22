@@ -1,10 +1,11 @@
-import React from 'react'
+import { Component } from "react"
+import Pedido from Component
 
 const App = () => {
   return (
-    <div>
+    <Pedido>
       
-    </div>
+    </Pedido>
   )
 }
 
